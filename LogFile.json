@@ -1,0 +1,1722 @@
+[
+  {
+    "Timestamp": "2024-11-08 16:46:01",
+    "EventType": "Temporary Support Added",
+    "ObjectDetails": {
+      "Name": "Support",
+      "Position": "(0.00, 0.00, 0.00)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:46:04",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Stiffener1_2UPN",
+      "Position": "(-10.45, 4.40, 0.51)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:46:11",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Stiffener1_2UPN",
+      "Position": "(7.66, 1.80, -7.25)",
+      "Rotation": "(304.70, 125.50, 137.29)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:46:18",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Stiffener1_3UPN",
+      "Position": "(-10.45, 4.39, -2.92)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:46:26",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Stiffener1_3UPN",
+      "Position": "(7.60, 1.79, -7.25)",
+      "Rotation": "(324.49, 29.80, 75.15)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:46:33",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Frame1 Connection over",
+      "Position": "(-10.45, 3.66, -1.22)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:46:42",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Frame1 Connection over",
+      "Position": "(9.67, 1.61, -5.80)",
+      "Rotation": "(356.56, 351.63, 88.36)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:46:52",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Stiffener1_4UPN",
+      "Position": "(-10.45, 1.63, 0.49)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:01",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Stiffener1_4UPN",
+      "Position": "(7.58, 1.85, -7.17)",
+      "Rotation": "(18.47, 50.32, 113.63)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:08",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Stiffener1_1UPN",
+      "Position": "(-10.45, 1.64, -2.88)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:16",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Stiffener1_1UPN",
+      "Position": "(7.58, 1.70, -7.26)",
+      "Rotation": "(323.56, 64.68, 218.69)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:24",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Frame1 Connection Under",
+      "Position": "(-10.45, 3.00, -1.22)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:32",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Frame1 Connection Under",
+      "Position": "(9.61, 1.54, -6.15)",
+      "Rotation": "(350.92, 32.29, 86.64)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:40",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Frame1 Plate4",
+      "Position": "(-10.45, 0.14, 1.96)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:48",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Frame1 Plate4",
+      "Position": "(9.60, 1.71, -5.84)",
+      "Rotation": "(348.31, 349.68, 265.98)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:47:54",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Frame1 Plate1",
+      "Position": "(-10.45, 0.14, -4.38)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:00",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Frame1 Plate1",
+      "Position": "(9.38, 1.72, -6.04)",
+      "Rotation": "(343.01, 351.11, 282.15)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:11",
+    "EventType": "Temporary Support Added",
+    "ObjectDetails": {
+      "Name": "Support",
+      "Position": "(0.00, 0.00, 0.00)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:13",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Frame1Plate2",
+      "Position": "(-10.45, 5.20, 2.00)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:21",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Frame1Plate2",
+      "Position": "(9.56, 1.70, -6.11)",
+      "Rotation": "(348.09, 358.03, 257.80)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:30",
+    "EventType": "Temporary Support Added",
+    "ObjectDetails": {
+      "Name": "Support",
+      "Position": "(0.00, 0.00, 0.00)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:32",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "Frame1Plate3",
+      "Position": "(-10.45, 5.20, -4.42)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:41",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "Frame1Plate3",
+      "Position": "(9.71, 1.68, -5.94)",
+      "Rotation": "(343.62, 42.23, 112.27)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:49",
+    "EventType": "GameObject Temporarily Fixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2",
+      "Position": "(-10.47, 2.65, 2.47)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:53",
+    "EventType": "GameObject Temporarily Fixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_1_side2",
+      "Position": "(-10.47, 2.67, -4.90)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:48:59",
+    "EventType": "GameObject Temporarily Fixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1",
+      "Position": "(-18.41, 2.67, 2.47)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:02",
+    "EventType": "GameObject Temporarily Fixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_1_side1",
+      "Position": "(-18.41, 2.67, -4.90)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:08",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA",
+      "Position": "(-10.52, 3.33, -1.22)",
+      "Rotation": "(270.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:15",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA",
+      "Position": "(3.92, 0.76, 9.70)",
+      "Rotation": "(288.11, 182.86, 270.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:20",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA_0",
+      "Position": "(5.85, 0.08, 9.88)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:20",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA_1",
+      "Position": "(2.56, 0.08, 10.03)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:21",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA_0",
+      "Position": "(5.85, 0.08, 9.88)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:29",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA_0",
+      "Position": "(7.39, 1.83, -6.60)",
+      "Rotation": "(349.44, 357.45, 0.53)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:35",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA_1",
+      "Position": "(2.56, 0.08, 10.03)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:43",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "MainBeam1_HEA_1",
+      "Position": "(7.25, 1.89, -5.94)",
+      "Rotation": "(357.91, 355.41, 359.94)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:49:50",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal",
+      "Position": "(-14.44, 3.86, 2.12)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:00",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal",
+      "Position": "(4.49, 0.68, 11.05)",
+      "Rotation": "(0.01, 358.75, 177.69)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:05",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal",
+      "Position": "(18.43, 0.03, 11.03)",
+      "Rotation": "(0.00, 358.93, 180.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:09",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal",
+      "Position": "(7.23, 0.57, 11.35)",
+      "Rotation": "(358.09, 346.36, 181.54)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:18",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0",
+      "Position": "(7.98, 0.03, 8.15)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:18",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1",
+      "Position": "(7.38, 0.03, 11.85)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:19",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0",
+      "Position": "(7.98, 0.03, 8.15)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:20",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0",
+      "Position": "(8.07, 0.43, 7.43)",
+      "Rotation": "(359.37, 3.21, 2.12)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:23",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0",
+      "Position": "(7.71, 0.02, 9.79)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:23",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1",
+      "Position": "(7.14, 0.02, 12.44)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:24",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0",
+      "Position": "(7.71, 0.02, 9.79)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:25",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0",
+      "Position": "(7.73, 0.26, 9.42)",
+      "Rotation": "(0.48, 2.31, 1.74)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:29",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_0",
+      "Position": "(7.27, 0.02, 10.77)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:29",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1",
+      "Position": "(7.04, 0.02, 13.24)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:31",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1",
+      "Position": "(7.04, 0.02, 13.24)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:32",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1",
+      "Position": "(6.82, 0.23, 13.64)",
+      "Rotation": "(0.15, 359.30, 1.83)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:35",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_0",
+      "Position": "(6.84, 0.03, 12.72)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:35",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1",
+      "Position": "(6.60, 0.03, 14.21)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:36",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1",
+      "Position": "(6.60, 0.03, 14.21)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:37",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1",
+      "Position": "(6.30, 0.26, 14.64)",
+      "Rotation": "(0.63, 359.09, 1.85)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:43",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0",
+      "Position": "(6.31, 0.03, 14.30)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:43",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1",
+      "Position": "(5.91, 0.03, 15.29)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:44",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1",
+      "Position": "(5.91, 0.03, 15.29)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:44",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1",
+      "Position": "(5.79, 0.31, 15.85)",
+      "Rotation": "(1.25, 359.43, 2.86)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:52",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1_0",
+      "Position": "(4.07, 0.03, 15.40)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:52",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1_1",
+      "Position": "(6.93, 0.03, 16.28)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:50:53",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1_0",
+      "Position": "(4.07, 0.03, 15.40)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:00",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1_0",
+      "Position": "(7.17, 1.93, 3.94)",
+      "Rotation": "(359.01, 194.98, 5.03)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:03",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1_1",
+      "Position": "(6.93, 0.03, 16.28)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:11",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_1_1",
+      "Position": "(7.62, 1.90, 3.72)",
+      "Rotation": "(356.59, 14.28, 358.40)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:19",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_0",
+      "Position": "(4.24, 0.03, 13.77)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:19",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_1",
+      "Position": "(7.89, 0.03, 14.80)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:19",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_0",
+      "Position": "(4.24, 0.03, 13.77)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:26",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_0",
+      "Position": "(7.33, 1.72, 3.73)",
+      "Rotation": "(0.42, 192.29, 2.77)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:29",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_1",
+      "Position": "(7.89, 0.03, 14.80)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:37",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_1",
+      "Position": "(7.73, 1.84, 3.71)",
+      "Rotation": "(356.49, 16.04, 3.24)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:38",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_1",
+      "Position": "(7.74, 1.46, 3.71)",
+      "Rotation": "(359.86, 16.25, 359.90)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:39",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_1_0_1",
+      "Position": "(7.75, 1.85, 3.66)",
+      "Rotation": "(358.44, 16.96, 4.74)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:46",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_0_0",
+      "Position": "(5.02, 0.03, 12.24)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:46",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_0_1",
+      "Position": "(8.89, 0.03, 13.19)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:46",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_0_0",
+      "Position": "(5.02, 0.03, 12.24)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:54",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_0_0",
+      "Position": "(7.73, 2.12, 3.72)",
+      "Rotation": "(358.31, 197.84, 2.62)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:51:58",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_0_1",
+      "Position": "(8.89, 0.03, 13.19)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:04",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_1_0_1",
+      "Position": "(7.48, 1.97, 3.66)",
+      "Rotation": "(354.99, 16.26, 3.47)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:11",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_0_0",
+      "Position": "(5.23, 0.02, 10.32)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:11",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_0_1",
+      "Position": "(9.06, 0.02, 11.35)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:11",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_0_0",
+      "Position": "(5.23, 0.02, 10.32)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:18",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_0_0",
+      "Position": "(7.55, 2.16, 3.77)",
+      "Rotation": "(359.05, 193.79, 6.33)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:21",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_0_1",
+      "Position": "(9.06, 0.02, 11.35)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:29",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_1_0_1",
+      "Position": "(7.65, 1.98, 3.59)",
+      "Rotation": "(358.56, 15.84, 356.62)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:34",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0_0",
+      "Position": "(5.50, 0.03, 8.80)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:34",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0_1",
+      "Position": "(9.37, 0.03, 9.73)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:35",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0_0",
+      "Position": "(5.50, 0.03, 8.80)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:41",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0_0",
+      "Position": "(7.31, 2.25, 3.69)",
+      "Rotation": "(358.97, 193.70, 2.87)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:44",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0_1",
+      "Position": "(9.37, 0.03, 9.73)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:51",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_1_0_1",
+      "Position": "(7.38, 2.06, 3.81)",
+      "Rotation": "(357.47, 12.88, 1.68)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:57",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0_0",
+      "Position": "(5.75, 0.02, 7.06)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:57",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0_1",
+      "Position": "(9.74, 0.02, 7.73)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:52:57",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0_0",
+      "Position": "(5.75, 0.02, 7.06)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:04",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0_0",
+      "Position": "(7.00, 2.14, 3.73)",
+      "Rotation": "(0.34, 190.91, 358.99)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:06",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0_1",
+      "Position": "(9.74, 0.02, 7.73)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:13",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_internal_0_1",
+      "Position": "(7.60, 2.47, 3.65)",
+      "Rotation": "(358.62, 9.06, 9.56)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:25",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external",
+      "Position": "(-14.44, 3.86, 2.82)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:33",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external",
+      "Position": "(3.96, 0.54, 10.88)",
+      "Rotation": "(358.28, 92.89, 183.26)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:38",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0",
+      "Position": "(4.65, 0.03, 10.86)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:38",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1",
+      "Position": "(1.10, 0.02, 11.01)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:39",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1",
+      "Position": "(1.10, 0.02, 11.01)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:40",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1",
+      "Position": "(0.64, 0.07, 11.07)",
+      "Rotation": "(0.37, 356.08, 357.35)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:42",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0",
+      "Position": "(5.26, 0.03, 10.82)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:42",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1",
+      "Position": "(2.58, 0.02, 10.93)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:43",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1",
+      "Position": "(2.58, 0.02, 10.93)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:46",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1",
+      "Position": "(2.46, 0.53, 11.02)",
+      "Rotation": "(356.36, 0.37, 359.61)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:50",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0",
+      "Position": "(6.00, 0.03, 10.78)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:50",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_1",
+      "Position": "(3.95, 0.02, 10.85)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:51",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0",
+      "Position": "(6.00, 0.03, 10.78)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:52",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0",
+      "Position": "(6.39, 0.17, 10.97)",
+      "Rotation": "(0.07, 359.08, 1.04)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:54",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0",
+      "Position": "(7.08, 0.03, 10.50)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:54",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_1",
+      "Position": "(5.98, 0.03, 10.96)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:55",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0",
+      "Position": "(7.08, 0.03, 10.50)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:53:56",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0",
+      "Position": "(7.65, 0.36, 10.67)",
+      "Rotation": "(358.42, 2.60, 359.38)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:02",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1_0",
+      "Position": "(0.49, 0.03, 8.55)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:02",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1_1",
+      "Position": "(0.58, 0.03, 12.55)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:03",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1_0",
+      "Position": "(0.49, 0.03, 8.55)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:08",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1_0",
+      "Position": "(7.20, 2.24, 3.78)",
+      "Rotation": "(5.26, 271.69, 0.75)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:11",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1_1",
+      "Position": "(0.58, 0.03, 12.55)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:19",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_1_1",
+      "Position": "(7.82, 2.43, 3.65)",
+      "Rotation": "(353.77, 89.93, 359.83)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:24",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1_0",
+      "Position": "(2.12, 0.03, 9.11)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:24",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1_1",
+      "Position": "(2.73, 0.03, 13.04)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:24",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1_0",
+      "Position": "(2.12, 0.03, 9.11)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:30",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1_0",
+      "Position": "(7.27, 2.23, 3.80)",
+      "Rotation": "(0.59, 268.53, 1.61)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:33",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1_1",
+      "Position": "(2.73, 0.03, 13.04)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:39",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_1_1",
+      "Position": "(7.27, 2.33, 3.52)",
+      "Rotation": "(358.55, 84.53, 358.35)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:43",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_1_0",
+      "Position": "(3.53, 0.02, 8.59)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:43",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_1_1",
+      "Position": "(4.23, 0.02, 12.41)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:44",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_1_0",
+      "Position": "(3.53, 0.02, 8.59)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:49",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_1_0",
+      "Position": "(6.92, 2.38, 3.66)",
+      "Rotation": "(1.91, 266.27, 3.52)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:51",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_1_1",
+      "Position": "(4.23, 0.02, 12.41)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:54:57",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_1_1",
+      "Position": "(7.67, 2.36, 3.64)",
+      "Rotation": "(0.65, 81.23, 358.25)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:02",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_1_0",
+      "Position": "(5.48, 0.03, 8.64)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:02",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_1_1",
+      "Position": "(6.25, 0.03, 12.44)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:02",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_1_0",
+      "Position": "(5.48, 0.03, 8.64)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:09",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_1_0",
+      "Position": "(7.02, 2.52, 3.82)",
+      "Rotation": "(3.23, 273.40, 2.48)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:12",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_1_1",
+      "Position": "(6.25, 0.03, 12.44)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:25",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_1_1",
+      "Position": "(7.31, 2.59, 3.71)",
+      "Rotation": "(357.37, 79.10, 0.82)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:29",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_0",
+      "Position": "(7.46, 0.03, 8.62)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:29",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(8.04, 0.03, 11.80)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:30",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_0",
+      "Position": "(7.46, 0.03, 8.62)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:37",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_0",
+      "Position": "(6.76, 2.56, 3.73)",
+      "Rotation": "(1.65, 260.71, 1.66)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:39",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(8.04, 0.03, 11.80)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:46",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(7.25, 2.57, 3.99)",
+      "Rotation": "(356.96, 73.48, 359.03)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:46",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(7.25, 2.52, 3.99)",
+      "Rotation": "(356.96, 73.48, 359.03)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:46",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(7.26, 2.52, 4.00)",
+      "Rotation": "(356.96, 73.33, 359.07)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:47",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(7.26, 2.27, 3.98)",
+      "Rotation": "(359.93, 72.99, 358.25)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:48",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(7.28, 2.52, 4.04)",
+      "Rotation": "(355.58, 71.69, 359.08)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:49",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(7.29, 2.27, 4.02)",
+      "Rotation": "(359.60, 71.40, 357.38)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:55:50",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_external_0_0_0_0_1",
+      "Position": "(7.29, 2.49, 3.98)",
+      "Rotation": "(356.29, 71.98, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:01",
+    "EventType": "GameObject Unfixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2",
+      "Position": "(-10.47, 2.65, 2.47)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:05",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2",
+      "Position": "(-10.47, 2.65, 2.47)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:19",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2",
+      "Position": "(3.82, 0.88, 7.65)",
+      "Rotation": "(356.21, 81.94, 269.47)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:25",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2_0",
+      "Position": "(2.29, 0.03, 7.53)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:25",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2_1",
+      "Position": "(4.95, 0.03, 7.73)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:27",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2_0",
+      "Position": "(2.29, 0.03, 7.53)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:32",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2_0",
+      "Position": "(7.07, 2.71, 3.81)",
+      "Rotation": "(1.42, 182.38, 359.03)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:35",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2_1",
+      "Position": "(4.95, 0.03, 7.73)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:39",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side2_1",
+      "Position": "(7.01, 2.73, 3.74)",
+      "Rotation": "(356.37, 1.34, 7.38)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:52",
+    "EventType": "GameObject Unfixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1",
+      "Position": "(-18.41, 2.67, 2.47)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:04:54",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1",
+      "Position": "(-18.41, 2.67, 2.47)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:03",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1",
+      "Position": "(3.53, 0.67, 7.50)",
+      "Rotation": "(356.41, 89.20, 49.65)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:08",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1_0",
+      "Position": "(5.03, 0.03, 7.75)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:08",
+    "EventType": "Slice Added",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1_1",
+      "Position": "(2.38, 0.03, 7.63)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:10",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1_1",
+      "Position": "(2.38, 0.03, 7.63)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:15",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1_1",
+      "Position": "(7.25, 2.75, 3.75)",
+      "Rotation": "(357.66, 1.63, 6.36)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:17",
+    "EventType": "GameObject Picked Up",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1_0",
+      "Position": "(5.03, 0.03, 7.75)",
+      "Rotation": "(0.00, 0.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:22",
+    "EventType": "GameObject Let Go",
+    "ObjectDetails": {
+      "Name": "CoreWall_2_side1_0",
+      "Position": "(7.02, 2.76, 3.75)",
+      "Rotation": "(358.08, 358.38, 5.03)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:30",
+    "EventType": "GameObject Temporarily Fixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_1_internal",
+      "Position": "(-14.44, 3.86, -4.55)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:33",
+    "EventType": "GameObject Unfixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_1_side2",
+      "Position": "(-10.47, 2.67, -4.90)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  },
+  {
+    "Timestamp": "2024-11-08 16:05:38",
+    "EventType": "GameObject Unfixed",
+    "ObjectDetails": {
+      "Name": "CoreWall_1_side1",
+      "Position": "(-18.41, 2.67, -4.90)",
+      "Rotation": "(270.00, 180.00, 0.00)",
+      "Scale": "(1.00, 1.00, 1.00)"
+    }
+  }
+]
